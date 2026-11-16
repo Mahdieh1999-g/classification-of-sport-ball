@@ -29,9 +29,3 @@ to recognize and distinguish between different sports equipment
 ├── notebooks/          # Jupyter notebooks for experimentation
 ├── src/                # Source code for training and inference
 └── README.md           # Project documentation
-
-
-clone the repository :
-git clone https://github.com/Mahdieh1999-g/classification-of-sport-ball.git
-cd classification-of-sport-ball
-
